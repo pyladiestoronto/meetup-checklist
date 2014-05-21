@@ -12,9 +12,11 @@
 - [ ] Venue address (and directions, if hard to find)
 - [ ] Company blurb and logo
 - [ ] Speaker bios and photos
-- [ ] Speaker
+- [ ] Talk titles and/or descriptions
 - RSVP questions:
     - [ ] Do you have any dietary restrictions?
+    - [ ] Do you have any allergies?
+    - [ ] Do you require any accessibility accommodations?
 
 
 ### One week prior to event
